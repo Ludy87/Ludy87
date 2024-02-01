@@ -7,6 +7,7 @@ A big thank you to all my generous sponsors! You support my work, and I truly ap
 1. [@phil1283](https://github.com/phil1283) ❤️
 2. [@bergfalk](https://github.com/bergfalk) ❤️
 3. [@bigcookie](https://github.com/bigcookie) ❤️
+4. Stefan S. ❤️
 
 If you would like to be mentioned in this sponsor list, please open an issue in this repository, and I'll be sure to add you.
 
